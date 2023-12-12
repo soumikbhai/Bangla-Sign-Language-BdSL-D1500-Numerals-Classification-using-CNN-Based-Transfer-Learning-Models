@@ -9,6 +9,7 @@ Bangla Sign Language (BdSL-D1500) Numerals Classification Using CNN Based Transf
 
 Paper presentation (anyone can view without login):
 
+
 Group Number:
 17
 
