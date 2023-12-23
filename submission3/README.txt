@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1WaHRHH8YN0ROVSd_xKVjMax-aSA4vrZE/edit#slide=id.p12 
+https://docs.google.com/presentation/d/1rzCu99vJciUC6-Fk1b_4rItN1h7q2TY4/edit#slide=id.p1
 
 Project title:
 Bangla Sign Language Numerals Classification Using CNN Based Transfer Learning Models.
