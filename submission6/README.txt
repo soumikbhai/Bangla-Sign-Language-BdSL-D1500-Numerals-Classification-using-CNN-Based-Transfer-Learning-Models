@@ -11,7 +11,7 @@ Paper title:
 Bangla Sign Language (BdSL-D1500) Numerals Classification Using CNN Based Transfer Learning Models.
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/16LjNVZnZEENtQjW37q-sq59gxR3cCUkWKq5IF_NtsOk/edit#slide=id.p
 
 Paper submission date (to workshop/conference):
 
