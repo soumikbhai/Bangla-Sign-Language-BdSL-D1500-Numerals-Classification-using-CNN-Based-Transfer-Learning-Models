@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/9499272352kwsfckpgdmbx#3c48d5
 
 Unlisted YouTube video:
-
+https://www.youtube.com/watch?v=NBIDjBiZO4U
 
 Paper title:
 Bangla Sign Language (BdSL-D1500) Numerals Classification Using CNN Based Transfer Learning Models.
